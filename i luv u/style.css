@@ -74,7 +74,7 @@ main {
 .paper {
   position: absolute;
   padding: 1rem;
-  line-height: 1rem;
+  line-height: 1.3rem;
   right: 5px;
   /*  */
   z-index: -1;
@@ -167,5 +167,6 @@ main {
 
   }
 }
+
 
 
